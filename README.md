@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou a Dayana  
 
-Desenvolvedora Backend em transição de carreira, apaixonada por resolver problemas com lógica e criar soluções eficientes. Com experiência em **JavaScript**, **SQL**, **Chart.js** e **n8n**, meu foco é desenvolver ferramentas que facilitam a vida dos usuários.
+Desenvolvedora Backend em transição de carreira, apaixonada por resolver problemas com lógica e criar soluções eficientes. Com experiência em **JavaScript**, **SQL**, **n8n**, **Chart.js** e integração com **OpenAI**, estou focada em criar ferramentas que combinam automação, análise de dados e inteligência artificial.
 
 ---
 
@@ -13,8 +13,10 @@ Desenvolvedora Backend em transição de carreira, apaixonada por resolver probl
 - **Banco de Dados:**  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
   ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-- **Automação:**  
+- **Automação e Integração:**  
   ![n8n](https://img.shields.io/badge/-n8n-2596be?style=for-the-badge&logo=n8n&logoColor=white)  
+- **Inteligência Artificial:**  
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 - **Visualização de Dados:**  
   ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)  
 
@@ -32,12 +34,20 @@ API REST para gerenciamento de tarefas.
 - **Tecnologias:** Node.js, Express, SQLite3.  
 - **Descrição:** Fornece endpoints para criar, atualizar e deletar tarefas.  
 
+### Integrações com OpenAI e Automação com n8n  
+Projetos desenvolvidos para combinar automação e inteligência artificial, usando **n8n** e **OpenAI** para:
+- Análise automatizada de dados textuais (ex.: análise de sentimentos e classificação de textos).  
+- Geração de conteúdo personalizado, como resumos e e-mails automáticos.  
+- Automação de processos repetitivos e integração com APIs externas.
+
+> Detalhes sobre esses projetos estão disponíveis mediante solicitação.
+
 ---
 
 ## 🌟 Sobre Mim  
-- Experiência em transição de dados para visualizações usando ferramentas modernas.  
+- Experiência em integrar modelos de **IA** (OpenAI) em soluções práticas.  
 - Interesse em automações com **n8n** para simplificar processos e integrar sistemas.  
-- Desenvolvimento de soluções voltadas para usuários finais com foco em usabilidade.
+- Desenvolvimento de soluções voltadas para usuários finais com foco em usabilidade e inovação.
 
 ---
 
