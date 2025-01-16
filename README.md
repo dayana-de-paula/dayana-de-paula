@@ -34,7 +34,7 @@ Portal completo para mentorias de negócios.
   - **Análise de Calls com IA:** Recomendações estratégicas baseadas em dados.  
   - **Área de CS:** Acompanhamento centralizado de dados e respostas de mentorados.
 
-### [Nutritional Data Analysis](https://github.com/dayana-de-paula/analise-dados-nutricao)  
+### [Análise de Dados Nutricionais](https://github.com/dayana-de-paula/analise-dados-nutricao)  
 Projeto para análise de dados nutricionais com gráficos interativos.  
 - **Tecnologias:** SQL, JavaScript, Chart.js, Supabase.  
 - **Descrição:** Visualiza padrões nutricionais diários com gráficos interativos, utilizando uma combinação de SQL e JavaScript.
