@@ -24,6 +24,16 @@ Desenvolvedora Backend em transição de carreira, apaixonada por resolver probl
 
 ## 📚 Projetos Destacados
 
+### [Portal Mentoria de Negócios](https://github.com/dayana-de-paula/portal-mentoria-negocios)  
+Portal completo para mentorias de negócios.  
+- **Tecnologias:** Integração com ferramentas no-code, n8n, Supabase, e OpenAI.  
+- **Descrição:**  
+  - **CRM:** Gestão completa de leads e acompanhamento do funil de vendas.  
+  - **Planos de Ação:** Estruturados por sprints, com status e progresso detalhado.  
+  - **Dashboards:** Visualização de métricas financeiras e operacionais.  
+  - **Análise de Calls com IA:** Recomendações estratégicas baseadas em dados.  
+  - **Área de CS:** Acompanhamento centralizado de dados e respostas de mentorados.
+
 ### [Nutritional Data Analysis](https://github.com/dayana-de-paula/analise-dados-nutricao)  
 Projeto para análise de dados nutricionais com gráficos interativos.  
 - **Tecnologias:** SQL, JavaScript, Chart.js, Supabase.  
@@ -39,8 +49,6 @@ Projetos desenvolvidos para combinar automação e inteligência artificial, usa
 - Análise automatizada de dados textuais (ex.: análise de sentimentos e classificação de textos).  
 - Geração de conteúdo personalizado, como resumos e e-mails automáticos.  
 - Automação de processos repetitivos e integração com APIs externas.
-
-> Detalhes sobre esses projetos estão disponíveis mediante solicitação.
 
 ---
 
