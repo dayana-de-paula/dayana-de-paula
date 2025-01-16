@@ -40,9 +40,11 @@ Projeto para análise de dados nutricionais com gráficos interativos.
 - **Descrição:** Visualiza padrões nutricionais diários com gráficos interativos, utilizando uma combinação de SQL e JavaScript.
 
 ### [Task Manager API](https://github.com/dayana-de-paula/task-manager-api)  
-API REST para gerenciamento de tarefas.  
-- **Tecnologias:** Node.js, Express, SQLite3.  
-- **Descrição:** Fornece endpoints para criar, atualizar e deletar tarefas.  
+API REST para gerenciamento de tarefas com documentação interativa usando Swagger.  
+- **Tecnologias:** Node.js, Express, SQLite3, Swagger.  
+- **Descrição:**  
+  - Fornece endpoints para criar, atualizar e deletar tarefas.  
+  - Documentação interativa desenvolvida com **Swagger**, permitindo a exploração e teste direto dos endpoints.  
 
 ### Integrações com OpenAI e Automação com n8n  
 Projetos desenvolvidos para combinar automação e inteligência artificial, usando **n8n** e **OpenAI** para:
